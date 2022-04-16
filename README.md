@@ -1,11 +1,12 @@
 
-<p align="center">
-  <Strong><h2> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul. </h2></Strong>
+
+
+<div align="center">
+ <h1> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul.</h1>
   <br>
   <br>
-  <br>
-  <br>
-</p>
+
+</div>
 
 <p align="center">
 <Strong>📧Email📧</Strong>

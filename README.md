@@ -9,13 +9,11 @@
 <div align="center">
 <Strong><h3>📧Email & Contact📧</h3></Strong>
 </div>
-
 <div align="center">
 <a href="mailto:glglzhzh22@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:glglzhzh22@gmail.com"></a>
 <a href="mailto:heo_dark@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:heo_dark@naver.com"></a>
 <a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
 </div>
-<br>
 <div align="center">
   <Strong><h3>⚒️Tech Stack⚒️</h3></Strong>
 
@@ -28,7 +26,6 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
 </div>
-<br>
 <div align="center">
   <Strong><h3>☁️SNS list☁️</h3></Strong>
 <a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
@@ -39,11 +36,11 @@
 <p align="center">
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=10"/>
-  <br>
+
 </p>
 
 <p align="center">
-  <br>
+ <br>
 <img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=Saru-github&theme=flat&column=7&align=center"/>
 </p>
 

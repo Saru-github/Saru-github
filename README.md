@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?typewaving&color=auto&height=200&section=header&text=Hello, wolrd&fontSize=20)
+
 

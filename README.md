@@ -2,7 +2,7 @@
 
 
 <div align="center">
- <h1> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul.</h1>
+ <h2> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul.</h2>
   <br>
   <br>
 
@@ -15,7 +15,7 @@
 <p align="center">
 <a href="mailto:glglzhzh22@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:glglzhzh22@gmail.com"></a>
 <a href="mailto:heo_dark@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:heo_dark@naver.com"></a>
-<a href=""><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link=""></a>
+<a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
 </p>
 
 <p align="center">
@@ -40,13 +40,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>　
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=10"/>
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>　
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=10"/>
   <br>
 </p>
 
 <p align="center">
   <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Saru-github&theme=flat&column=7&align=center"/>
+<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=Saru-github&theme=flat&column=7&align=center"/>
 </p>
 

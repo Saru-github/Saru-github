@@ -1,6 +1,6 @@
 
 <p align="center">
-  <Strong><h1> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul. <h1></Strong>
+  <Strong><h1> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul. </h1></Strong>
   <br>
   <br>
   <br>

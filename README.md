@@ -39,8 +39,8 @@
 </div>
 
 <p align="center">
-  <img style="height:200px; width:auto;" src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>　
-  <img style="height:200px; width:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=10"/>
+  <img style="height:200px; width:200px;" src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>　
+  <img style="height:200px; width:300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=10"/>
   <br>
 </p>
 

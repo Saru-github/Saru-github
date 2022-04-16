@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?typewaving&color=auto&height=200&section=header&text=Hello, wolrd&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello,%20wolrd!&fontSize=90)
 
 
+<br>
+<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github)](https://github.com/heo_dark@naver.com/github-readme-stats)&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saru-github)](https://github.com/heo_dark@naver.com/github-readme-stats)

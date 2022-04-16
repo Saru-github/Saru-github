@@ -4,8 +4,6 @@
 <div align="center">
  <h2> Hi 👐  I'm Saru, leaning develop in Republic of Korea, Seoul.</h2>
   <br>
-  <br>
-
 </div>
 
 <div align="center">

@@ -21,20 +21,23 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"><br>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
  
   <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
+ 
+ 
 </div>
 <div align="center">
   <Strong><h3>☁️SNS list☁️</h3></Strong>
 <a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
+ <a href="https://awesome-shroud-e98.notion.site/18296e97593548c586704a059699bbfa"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="https://awesome-shroud-e98.notion.site/18296e97593548c586704a059699bbfa" ></a>
   <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaru-github%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
   <br><br>
 </div>

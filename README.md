@@ -36,8 +36,8 @@
 </div>
 <div align="center">
   <Strong><h3>☁️SNS list☁️</h3></Strong>
-<a href="[https://sarudev.notion.site](https://www.instagram.com/heo__daeng/)"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
- <a href="https://www.notion.so/sarudev/6b48f4e911a3403ba3d4405885827768"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="[https://sarudev.notion.site](https://www.notion.so/sarudev/6b48f4e911a3403ba3d4405885827768)" ></a>
+<a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
+ <a href="https://sarudev.notion.site/JAVA-Spring-review-00-73866313b9d743c1ad488cd00d3a1077"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="https://sarudev.notion.site/JAVA-Spring-review-00-73866313b9d743c1ad488cd00d3a1077" ></a>
   <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaru-github%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
   <br><br>
 </div>

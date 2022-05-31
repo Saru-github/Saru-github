@@ -15,7 +15,7 @@
 <a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
 </div>
 <div align="center">
-  <Strong><h3>⚒️Learn Tech Stack⚒️</h3></Strong>
+  <Strong><h3>⚒️Learning Tech Stack⚒️</h3></Strong>
 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">

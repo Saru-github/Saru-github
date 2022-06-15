@@ -3,7 +3,6 @@
 
 <div align="center">
  <h2> Hi 👐  I'm Saru, learning dev in Republic of Korea, Seoul.</h2>
-  <br>
 </div>
 
 <div align="center">
@@ -15,6 +14,7 @@
 <a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
 </div>
 <div align="center">
+ <br>
  
   <Strong><h2>⚒️ Main Stack (commonly used)⚒️</h2><Strong>
  
@@ -37,10 +37,10 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
  
-  <!--img style="width:auto height:28px;" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"--> 
- 
  
 </div>
+ <br>
+ <br>
 <div align="center">
   <Strong><h3>☁️SNS list☁️</h3></Strong>
 <a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
@@ -56,7 +56,6 @@
 </p>
 
 <p align="center">
- <br>
 <img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=Saru-github&theme=flat&column=7&align=center"/>
 </p>
 

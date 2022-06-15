@@ -26,8 +26,8 @@
   <Strong><h3>:books:Learning Tech Stack (used more than once):books:</h3></Strong>
   
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"><br>
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">

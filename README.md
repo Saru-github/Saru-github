@@ -16,7 +16,7 @@
 </div>
 <div align="center">
  
-  <Strong><h2> Main Stack </h2><Strong>
+  <Strong><h2>⚒️ Main Stack (commonly used)⚒️</h2><Strong>
  
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">

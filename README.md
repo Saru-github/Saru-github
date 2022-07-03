@@ -18,7 +18,7 @@
  
   <Strong><h2>⚒️ Main Stack (commonly used)⚒️</h2><Strong>
  
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> 
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=ava&logoColor=white"> 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">

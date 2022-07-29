@@ -36,7 +36,6 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> 
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
  
- 
 </div>
  <br>
  <br>

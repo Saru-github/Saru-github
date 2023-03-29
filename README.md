@@ -2,7 +2,7 @@
 
 
 <div align="center">
- <h2> Hi 👐  I'm Saru, learning dev in Republic of Korea, Seoul.</h2>
+ <h2> Hello, World! 👐  I'm Daeyoung Heo, learning dev in Republic of Korea, Seoul.</h2>
 </div>
 
 <div align="center">

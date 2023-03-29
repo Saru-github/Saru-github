@@ -18,10 +18,12 @@
  
   <Strong><h2>⚒️ Main Stack (commonly used)⚒️</h2><Strong>
  
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=ava&logoColor=white"> 
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
+  
  
   <Strong><h3>:books:Learning Tech Stack (used more than once):books:</h3></Strong>
   
@@ -29,12 +31,14 @@
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
   <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"><br>
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> 
-  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <br>
+  <Strong><h3>🔨Tech Tool🔨 </h3></Strong>
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
+  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
  
 </div>
  <br>

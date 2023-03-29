@@ -9,7 +9,7 @@
 <Strong><h3>📧Email & Contact📧</h3></Strong>
 </div>
 <div align="center">
-<a href="mailto:glglzhzh22@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:glglzhzh22@gmail.com"></a>
+<a href="mailto:glglzhzh22@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:dydev92@gmail.com"></a>
 <a href="mailto:heo_dark@naver.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/-Naver-brightgreen?style=flat-square&logo=Naver&logoColor=white&link="mailto:heo_dark@naver.com"></a>
 <a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
 </div>
@@ -31,11 +31,11 @@
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"><br>
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"><br>
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
  <br>
  <Strong><h3>🔨Tech Tool🔨 </h3></Strong>
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">

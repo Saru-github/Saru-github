@@ -35,7 +35,7 @@
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"><br>
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+<!--  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"> -->
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
  <br>
  <Strong><h3>🔨Tech Tool🔨 </h3></Strong>

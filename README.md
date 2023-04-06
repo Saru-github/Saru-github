@@ -52,6 +52,7 @@
   <Strong><h3>☁️SNS list (Click to move)☁️</h3></Strong>
 <a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
  <a href="https://sarudev.notion.site/Saru-6a4424f70a3740bdb987e6f2bb0bfb58"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="https://sarudev.notion.site/Saru-6a4424f70a3740bdb987e6f2bb0bfb58 ></a>
+ <a href="https://velog.io/@saruru"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="https://velog.io/@saruru></a>
   <img style="width:auto; height:28px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaru-github%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false))"/></a>
   <br><br>
 </div>

@@ -44,6 +44,7 @@
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white">
  
 </div>
  

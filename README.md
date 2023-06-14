@@ -35,7 +35,7 @@
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+<!--  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> -->
  <br>
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">

@@ -33,8 +33,10 @@
  
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
+<!--  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"> -->
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <!--  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> -->
  <br>
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">

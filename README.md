@@ -53,6 +53,7 @@
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=subversion&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
+ <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white">
  <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 </div>
  

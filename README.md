@@ -77,7 +77,3 @@
 
 </p>
 
-<p align="center">
-<img style="height:200px;" src="https://github-profile-trophy.vercel.app/?username=Saru-github&theme=flat&column=7&align=center"/>
-</p>
-

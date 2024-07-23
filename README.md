@@ -58,7 +58,7 @@
  <br>
 <p align="left">
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>
-  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=10"/>
+  <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=5&hide=html,css,scss"/>
 </p>
 
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white">-->

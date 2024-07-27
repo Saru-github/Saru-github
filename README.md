@@ -16,15 +16,15 @@
  
 <h2>⚒️  Main Stack (commonly used) ⚒️</h2>
   <div width="100%">
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/java.png" alt="java" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/spring.png" alt="spring" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/spring-boot.png" alt="spring-boot" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/thymeleaf.png" alt="thymeleaf" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/javascript.png" alt="javascript" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/oracle.png" alt="mysql" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/mysql.png" alt="mysql" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/aws-ec2.png" alt="aws-ec2" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/linux.png" alt="linux" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/java.png" alt="java" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/spring.png" alt="spring" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/spring-boot.png" alt="spring-boot" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/thymeleaf.png" alt="thymeleaf" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/javascript.png" alt="javascript" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/oracle.png" alt="mysql" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/mysql.png" alt="mysql" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/aws-ec2.png" alt="aws-ec2" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/linux.png" alt="linux" height="50px"/>
   </div>
 <br>
 <br>
@@ -32,12 +32,12 @@
 
 <h3>:books: Learning Tech Stack (used more than once) :books:</h3>
   <div width="100%">
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/spring-security.png" alt="spring security" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/jwt.png" alt="jwt" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/docker.png" alt="docker" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/nginx.png" alt="nginx" height="50px"/>
-<!--     <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/spring-security.png" alt="spring security" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/jwt.png" alt="jwt" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/docker.png" alt="docker" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/nginx.png" alt="nginx" height="50px"/>
+<!--     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->
     
   </div>
 <br>
@@ -46,10 +46,10 @@
 
 <h3> 🔨 Tech Tool 🔨 </h3>
   <div width="100%">
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/intellij.png" alt="intellij" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/datagrip.png" alt="datagrip" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/jira.png" alt="jira" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/icons/main/icons/slack.png" alt="slack" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/intellij.png" alt="intellij" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/datagrip.png" alt="datagrip" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/jira.png" alt="jira" height="50px"/>
+    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/slack.png" alt="slack" height="50px"/>
   </div>
  <br>
  <br>

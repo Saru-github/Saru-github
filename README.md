@@ -34,7 +34,7 @@
   <div width="100%">
     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/spring-security.png" alt="spring security" height="50px"/>
     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
-    <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/jwt.png" alt="jwt" height="50px"/>
+<!--     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/jwt.png" alt="jwt" height="50px"/> -->
     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/docker.png" alt="docker" height="50px"/>
     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/nginx.png" alt="nginx" height="50px"/>
 <!--     <img align="left" src="https://raw.githubusercontent.com/Saru-github/Saru-github/main/icons/kotlin.png" alt="kotlin" height="50px"/> -->

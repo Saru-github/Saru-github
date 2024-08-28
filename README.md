@@ -61,6 +61,9 @@
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=5&hide=html,css,scss,Jupyter%20Notebook"/>
 </p>
 
+
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=saruru)](https://velog.io/@saruru) -->
+
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white">-->
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">-->
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">-->
@@ -96,6 +99,3 @@
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> -->
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> -->
 <!-- </div> -->
- 
- 
-

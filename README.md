@@ -8,9 +8,9 @@
 <div>
   <a href="https://velog.io/@saruru"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white&link="https://velog.io/@saruru></a>
   <a href="https://www.linkedin.com/in/daeyoug-heo-336294265/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&link="https://www.linkedin.com/in/daeyoug-heo-336294265"></a><br>
-  <a href="mailto:glglzhzh22@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link="mailto:dydev92@gmail.com"></a>
-  <a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
-  <a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a>
+  <a href="mailto:dyheo92@gmail.com"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link="mailto:dydev92@gmail.com"></a>
+<!--   <a href="https://open.kakao.com/o/sHmgwxbe"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/KakaoTalk-F7DF1E?logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sHmgwxbe"></a>
+  <a href="https://www.instagram.com/heo__daeng/"><img style="width:auto; height:28px;" src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link="https://www.instagram.com/heo__daeng/" ></a> -->
 </div>
 <br>
  

@@ -61,6 +61,10 @@
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=5&hide=html,css,scss,Jupyter%20Notebook"/>
 </p>
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=saruru)](https://velog.io/@saruru)
 
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=OpenJDK&logoColor=white">-->

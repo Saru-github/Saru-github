@@ -54,12 +54,12 @@
  <br>
  <br>
  <br>
- <br>
+ <!-- <br>
  <br>
 <p align="left">
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api?username=saru-github&theme=dracula&layout=compact"/>
   <img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saru-github&theme=dracula&layout=compact&langs_count=5&hide=html,css,scss,Jupyter%20Notebook"/>
-</p>
+</p> -->
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
@@ -101,8 +101,6 @@
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> -->
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> -->
 <!-- </div> -->
-
-<br>
 
 <h2>finger-work</h2>
 <p align="left">

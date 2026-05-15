@@ -62,7 +62,7 @@
 </p> -->
 
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+  <img style="width:auto; height:28px;" src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=saruru)](https://velog.io/@saruru)

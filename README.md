@@ -101,3 +101,10 @@
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"> -->
 <!-- <img style="width:auto; height:28px;" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> -->
 <!-- </div> -->
+
+<br>
+
+<h2>Internal GitLab Activity</h2>
+<p align="left">
+  <img src="./assets/internal-gitlab-grass.svg" alt="Internal GitLab Activity" />
+</p>

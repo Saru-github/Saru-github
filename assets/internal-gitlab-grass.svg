@@ -395,7 +395,6 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <rect x="858" y="110" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-05-14: 0 contributions</title></rect>
 <rect x="858" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-05-15: 0 contributions</title></rect>
 <rect x="858" y="140" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2026-05-16: outside range</title></rect>
-<text x="54" y="185" class="muted">Learn how we count contributions</text>
 <text x="737" y="185" class="muted">Less</text>
 <rect x="771" y="175" width="11" height="11" rx="2" ry="2" fill="#161b22" />
 <rect x="786" y="175" width="11" height="11" rx="2" ry="2" fill="#0e4429" />
@@ -405,4 +404,5 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <text x="850" y="185" class="muted">More</text>
 
 </svg>
+
 

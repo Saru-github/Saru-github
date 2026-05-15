@@ -404,5 +404,5 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <rect x="816" y="175" width="11" height="11" rx="2" ry="2" fill="#26a641" />
 <rect x="831" y="175" width="11" height="11" rx="2" ry="2" fill="#39d353" />
 <text x="850" y="185" class="muted">More</text>
-<text x="869" y="201" text-anchor="end" class="footer">Private company GitLab activity.</text>
+
 </svg>

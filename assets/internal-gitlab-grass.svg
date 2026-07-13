@@ -1,4 +1,5 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="907" height="217" viewBox="0 0 907 217" role="img" aria-label="FingerPost ?뚰겕?ㅽ럹?댁뒪 ?쒕룞 湲곕줉 (2025.08 ~ ?꾩옱)">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="907" height="217" viewBox="0 0 907 217" role="img" aria-label="FingerPost &#50892;&#53356;&#49828;&#54168;&#51060;&#49828; &#54876;&#46041; &#44592;&#47197; (2025.08 ~ 2026-07-13)">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
 .headline{font-size:16px;font-weight:600;fill:#e6edf3}
@@ -7,7 +8,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 .footer{font-size:12px;fill:#8b949e}
 </style>
 <rect x="0.5" y="26.5" width="906" height="190" rx="6" fill="#0d1117" stroke="#30363d"/>
-<text x="0" y="18" class="headline">FingerPost ?뚰겕?ㅽ럹?댁뒪 ?쒕룞 湲곕줉 (2025.08 ~ ?꾩옱)</text>
+<text x="0" y="18" class="headline">FingerPost &#50892;&#53356;&#49828;&#54168;&#51060;&#49828; &#54876;&#46041; &#44592;&#47197; (2025.08 ~ 2026-07-13)</text>
 <text x="48" y="40" class="label">Jul</text>
 <text x="108" y="40" class="label">Aug</text>
 <text x="183" y="40" class="label">Sep</text>

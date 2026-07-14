@@ -103,5 +103,5 @@
 
 <h2>finger-work</h2>
 <p align="left">
-  <img src="./assets/internal-gitlab-grass.svg?v=202607131100" alt="finger-work GitLab Activity" />
+  <img src="./assets/internal-gitlab-grass.svg?v=20260714090017" alt="finger-work GitLab Activity" />
 </p>

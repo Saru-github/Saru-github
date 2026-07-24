@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="907" height="217" viewBox="0 0 907 217" role="img" aria-label="FingerPost &#50892;&#53356;&#49828;&#54168;&#51060;&#49828; &#54876;&#46041; &#44592;&#47197; (2025.08 ~ 2026-07-20)">
+<svg xmlns="http://www.w3.org/2000/svg" width="907" height="217" viewBox="0 0 907 217" role="img" aria-label="FingerPost &#50892;&#53356;&#49828;&#54168;&#51060;&#49828; &#54876;&#46041; &#44592;&#47197; (2025.08 ~ 2026-07-24)">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
 .headline{font-size:16px;font-weight:600;fill:#e6edf3}
@@ -8,7 +8,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 .footer{font-size:12px;fill:#8b949e}
 </style>
 <rect x="0.5" y="26.5" width="906" height="190" rx="6" fill="#0d1117" stroke="#30363d"/>
-<text x="0" y="18" class="headline">FingerPost &#50892;&#53356;&#49828;&#54168;&#51060;&#49828; &#54876;&#46041; &#44592;&#47197; (2025.08 ~ 2026-07-20)</text>
+<text x="0" y="18" class="headline">FingerPost &#50892;&#53356;&#49828;&#54168;&#51060;&#49828; &#54876;&#46041; &#44592;&#47197; (2025.08 ~ 2026-07-24)</text>
 <text x="33" y="40" class="label">Jul</text>
 <text x="93" y="40" class="label">Aug</text>
 <text x="168" y="40" class="label">Sep</text>
@@ -26,10 +26,10 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <text x="38" y="104" text-anchor="end" class="label">Wed</text>
 <text x="38" y="134" text-anchor="end" class="label">Fri</text>
 <rect x="78" y="50" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2025-07-20: outside range</title></rect>
-<rect x="78" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-21: 0 contributions</title></rect>
-<rect x="78" y="80" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-22: 0 contributions</title></rect>
-<rect x="78" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-23: 0 contributions</title></rect>
-<rect x="78" y="110" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-24: 0 contributions</title></rect>
+<rect x="78" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2025-07-21: outside range</title></rect>
+<rect x="78" y="80" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2025-07-22: outside range</title></rect>
+<rect x="78" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2025-07-23: outside range</title></rect>
+<rect x="78" y="110" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2025-07-24: outside range</title></rect>
 <rect x="78" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-25: 0 contributions</title></rect>
 <rect x="78" y="140" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-26: 0 contributions</title></rect>
 <rect x="93" y="50" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2025-07-27: 0 contributions</title></rect>
@@ -391,10 +391,10 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <rect x="843" y="140" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-07-18: 0 contributions</title></rect>
 <rect x="858" y="50" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-07-19: 0 contributions</title></rect>
 <rect x="858" y="65" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-07-20: 0 contributions</title></rect>
-<rect x="858" y="80" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2026-07-21: outside range</title></rect>
-<rect x="858" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2026-07-22: outside range</title></rect>
-<rect x="858" y="110" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2026-07-23: outside range</title></rect>
-<rect x="858" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2026-07-24: outside range</title></rect>
+<rect x="858" y="80" width="11" height="11" rx="2" ry="2" fill="#26a641" opacity="1"><title>2026-07-21: 4 contributions</title></rect>
+<rect x="858" y="95" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-07-22: 0 contributions</title></rect>
+<rect x="858" y="110" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-07-23: 0 contributions</title></rect>
+<rect x="858" y="125" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="1"><title>2026-07-24: 0 contributions</title></rect>
 <rect x="858" y="140" width="11" height="11" rx="2" ry="2" fill="#161b22" opacity="0.45"><title>2026-07-25: outside range</title></rect>
 <text x="737" y="185" class="muted">Less</text>
 <rect x="771" y="175" width="11" height="11" rx="2" ry="2" fill="#161b22" />
